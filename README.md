@@ -1,4 +1,4 @@
-# floating_point_arithmetic
+# Floating Point Arithmetic
 
 This repo contains implementation of algorithms from **Rajaraman V, “Computer Oriented Numerical Methods”, Pearson Education** for floating point arithmatic such a addition, multiplication, substrcation and devision.
 
@@ -285,4 +285,4 @@ if a fl. pt. value cannot be normalized
 
 ## Reference 
 * [Lecture Notes](http://pages.cs.wisc.edu/~smoler/x86text/lect.notes/arith.flpt.html)
-* [float_arithmetic](https://en.wikipedia.org/wiki/Floating-point_arithmetic)
+* [Float_Arithmetic](https://en.wikipedia.org/wiki/Floating-point_arithmetic)
