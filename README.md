@@ -1,6 +1,6 @@
 # floating_point_arithmetic
 
-This repo contain implementation of algorithms from **Rajaraman V, “Computer Oriented Numerical Methods”, Pearson Education** for floating point arithmatic such a addition, multiplication, substrcation and devision.
+This repo contains implementation of algorithms from **Rajaraman V, “Computer Oriented Numerical Methods”, Pearson Education** for floating point arithmatic such a addition, multiplication, substrcation and devision.
 
 ![alt text](https://github.com/p-rit/floating_point_arithmetic/blob/master/computer-oriented-numerical-methods-3-e-original-imaey8hzpz3z98rk.jpeg)
 
@@ -278,8 +278,7 @@ if a fl. pt. value cannot be normalized
      the exponent field to be all 0's)
     then underflow occurs.
 
-
-.## Built With
+## Built With
 
 * [Python](https://www.python.org/) 
 
